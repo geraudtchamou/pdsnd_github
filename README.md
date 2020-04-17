@@ -1,6 +1,6 @@
 ## 15/04/2020
 
-Udacity Data Analyst Degree - Project II: bikeshare data  
+Udacity Data Analyst Degree - Project II: bikeshare data analysis 
 
 ## Overview
 
