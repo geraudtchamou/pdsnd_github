@@ -1,4 +1,4 @@
-#### Python Programming for data science Nano Degree ###
+#### Python Programming for data science Nano Degree by udacity ###
 #### My Python code for ptoject II: Bikeshare data analysis###
 #### This was a good project to cater my python knowledge ####
 import time
