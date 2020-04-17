@@ -1,4 +1,5 @@
 #### Python Programming for data science Nano Degree by udacity ###
+#### Python Programming for data science Nano Degree by Udacity ###
 #### My Python code for ptoject II: Bikeshare data analysis###
 #### This was a good project to cater my python knowledge ####
 import time
@@ -71,10 +72,10 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-    # load data file into a dataframe
+    # loading data file into a dataframe
     df = pd.read_csv(CITY_DATA[city])
 
-    # convert the Start Time column to datetime
+    # converting the Start Time column to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # extract month and day of week from Start Time to create new columns
@@ -90,7 +91,7 @@ def load_data(city, month, day):
         # filter by month to create the new dataframe
         df = df[df['month'] == month]
 
-    # filter by day of week if applicable
+    # filtering by day of week if applicable
     if day != 'all':
         # filter by day of week to create the new dataframe
         df = df[df['day_of_week'] == day.title()]
