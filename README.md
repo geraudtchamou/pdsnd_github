@@ -24,5 +24,5 @@ End Station
 User Type 
  
 ## Credits
-Appreciation for Python and Pandas by Corey Schafer https://www.youtube.com/watch?v=ZyhVh-qRZPA&t=118s
+Appreciation for Python and Pandas courses by Corey Schafer https://www.youtube.com/watch?v=ZyhVh-qRZPA&t=118s
  
